@@ -2,7 +2,7 @@
 This project is small assessment that test the register form in the Sinistar webpage.
 
 ## Technologies (Version)
-* Selenium: 
+* Selenium
 * Python: 3.10
 * Pycharm community: 2021.2.3
 * ChromeDriver:  96.0.4664.35
@@ -10,6 +10,10 @@ This project is small assessment that test the register form in the Sinistar web
 ### Website (Download)
 * Pycharm community: https://www.jetbrains.com/pycharm/download/#section=windows
 * ChromeDriver: https://chromedriver.chromium.org/downloads
+
+### Environment
+* Windows 11
+* Chrome Dev Version 97.0.4692.8 (Official Build) dev (64-bit)
 
 
 ### Steps to install
