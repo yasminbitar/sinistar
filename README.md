@@ -25,3 +25,10 @@ This project is small assessment that test the register form in the Sinistar web
 6. In the Pycharm, create a blank project and go to Settings -> Project: NameOfProject -> Project Interpreter -> Click "+" -> Search for "selenium" -> Select the first in the list -> Install the package
 7. In this case, it could have in the project that colne from github but it is not, follow the step 6.
 8. After clone the repository, try to run the project (with the right button and "run test01", for example.
+
+
+
+
+
+If you face any problem, please feel free to contact me.
+Email: yasminbitar0@gmail.com
